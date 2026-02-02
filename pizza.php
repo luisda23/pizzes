@@ -3,6 +3,7 @@
           <meta content="text/html; charset=UTF-8" http-equiv="content-type">
           <title>FES LA TEVA PIZZA</title>
      </head>
+     <a href="pizza.html">Torna a pizza.html</a><br>
      <body>
      <?php
           $preu = 8;
